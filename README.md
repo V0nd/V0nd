@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V0nd
-- 👀 I’m interested in programming, writing, astronomy and reading
-- 🌱 I’m currently learning C# and C++
+- 👀 I’m interested in machine learning, game development, writing, astronomy and reading
+- 🌱 I’m currently learning C#, C++, python
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: Discord V0nd#8747
 
