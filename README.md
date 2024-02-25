@@ -1,3 +1,3 @@
-wandering around mare nubium
-drifting through downtown elysium
+- wandering around mare nubium
+- drifting through downtown elysium
 🌬
