@@ -1,6 +1,7 @@
 wandering around mare nubium  
 drifting through downtown elysium  
 🌬  
+#Adam Pohořilský
 Cybersec student and journalist
 
 Currently exploring: binary exploitation, fuzzing, and low-level security.
