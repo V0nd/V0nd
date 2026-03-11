@@ -1,7 +1,10 @@
+
 wandering around mare nubium  
 drifting through downtown elysium  
 🌬  
-#Adam Pohořilský
+
+# Adam Pohořilský
+
 Cybersec student and journalist
 
 Currently exploring: binary exploitation, fuzzing, and low-level security.
@@ -12,7 +15,7 @@ Currently exploring: binary exploitation, fuzzing, and low-level security.
 |---------|------------|
 | [Recon Tool](https://github.com/V0nd/WebRecon) | Python network scanner — TCP scanning, TLS cert analysis, WAF detection |
 | [Log Analyzer](https://github.com/V0nd/Log-Analyzer) | SSH & Apache log analyzer detecting brute-force, SQLi, LFI, command injection |
-| [Binary Exploitation Scripts]((https://github.com/V0nd/binary_exploitation) | Solved binary exploitation challenges |
+| [Binary Exploitation Scripts](https://github.com/V0nd/binary_exploitation) | Solved binary exploitation challenges |
 | [CTF Writeups](https://github.com/V0nd/writeups) | Few writeups on reverse engineering and pwn challenges |
 
 ## 🖥️ Assembly & Low-Level
